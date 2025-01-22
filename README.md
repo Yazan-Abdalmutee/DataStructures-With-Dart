@@ -32,14 +32,14 @@ Removes all occurrences of a specified value from the linked list.
 ## 📄 File Descriptions
 
 1. **`reverse_list.dart`**  
-   Implements a stack-based solution to reverse a list and demonstrates its functionality with examples.
+   Implements a stack-based solution to reverse a list.
 
 2. **`balanced_parentheses.dart`**  
-   Checks if the parentheses in a string are balanced using a stack, with multiple test cases to verify correctness.
+   Checks if the parentheses in a string are balanced using a stack.
 
 3. **`linked_list_challenges.dart`**  
-   Contains linked list operations and solutions to various challenges, including:  
+   Contains linked list solutions to various challenges, including:  
    - Printing a linked list in reverse using recursion.  
-   - Finding the middle node of a linked list using the two-pointer technique.  
+   - Finding the middle node of a linked list.
    - Reversing the linked list iteratively.  
    - Removing all occurrences of a specified target value from the linked list.  
