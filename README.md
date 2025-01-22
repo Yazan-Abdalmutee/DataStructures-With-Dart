@@ -1,6 +1,6 @@
 # Data Structures in Dart: Stack and Linked List Challenges
 
-This repository showcases implementations of stack and linked list data structures in Dart, along with solutions to common challenges and algorithms. Each section includes detailed examples and explanations.
+This repository showcases implementations of stack and linked list data structures in Dart, along with solutions to  challenges and algorithms.
 
 ---
 
